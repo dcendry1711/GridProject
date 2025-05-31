@@ -53,6 +53,7 @@ a {
     gap: .5em;
     align-items: center;
     font-family: "Roboto", sans-serif;
+    font-size: .9rem;
     font-weight: bold;
 }
 
@@ -100,3 +101,18 @@ footer {
     background-color: black;
     color: white;
 }
+
+.about-me{
+    font-size: .7rem;
+    text-align: left;
+    line-height: 1.5;
+}
+
+.about-me img{
+    margin: .7em 0;
+}
+
+h6 {
+    text-align: center;
+}
+
